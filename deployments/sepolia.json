@@ -1,0 +1,11 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "deployer": "0xf4A129D5d2592EA8Be96f66227bC70F3416Ab6Fb",
+  "treasury": "0xD0fCf3b5803dE6d98F68AbeFD0B107170eFDd1bC",
+  "usdt": "0x27CA72D92E02aD7d68B94A06C270D665EB5ce976",
+  "mockUsdt": true,
+  "token": "0x9B53B158bEf3Ad549f11c8Fb19748c10955f3fF3",
+  "presale": "0x3fA78B4809399510AABa54e421ae2986141c678b",
+  "deployedAt": "2026-10-14T08:31:28.894Z"
+}
